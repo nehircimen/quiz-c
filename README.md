@@ -1,4 +1,4 @@
-#Quiz Game in C#
+# Quiz Game in C #
 
 This is a simple terminal-based multiple-choice quiz game written in the C programming language.
 It was created as a beginner-level project to practice basic programming structures like structs, arrays, and string handling.
